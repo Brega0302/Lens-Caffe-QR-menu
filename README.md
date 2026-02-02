@@ -1,4 +1,4 @@
-# Lens - Cafe & Lounge Ordering System
+# Lens Cafe & Lounge Ordering System
 
 A modern, full-featured digital ordering system for cafes, lounges, and shisha bars. Built with Next.js 16, React 19, and Tailwind CSS.
 
